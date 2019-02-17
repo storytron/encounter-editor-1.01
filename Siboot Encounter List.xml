@@ -1,0 +1,3638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListWrapper version="1.00">
+<ActorList>
+<Actor label="Camiggdo">
+<isMale>false</isMale>
+<Bad_Good>-0.4</Bad_Good>
+<False_Honest>0.6</False_Honest>
+<Timid_Dominant>0.4</Timid_Dominant>
+</Actor>
+<Actor label="Skordokott">
+<isMale>true</isMale>
+<Bad_Good>0.0</Bad_Good>
+<False_Honest>0.4</False_Honest>
+<Timid_Dominant>0.6</Timid_Dominant>
+</Actor>
+<Actor label="Zubenelgenubi">
+<isMale>false</isMale>
+<Bad_Good>0.8</Bad_Good>
+<False_Honest>0.3</False_Honest>
+<Timid_Dominant>-0.7</Timid_Dominant>
+</Actor>
+<Actor label="Koopie">
+<isMale>true</isMale>
+<Bad_Good>0.5</Bad_Good>
+<False_Honest>0.2</False_Honest>
+<Timid_Dominant>-0.2</Timid_Dominant>
+</Actor>
+<Actor label="Subotai">
+<isMale>true</isMale>
+<Bad_Good>-0.3</Bad_Good>
+<False_Honest>-0.1</False_Honest>
+<Timid_Dominant>0.4</Timid_Dominant>
+</Actor>
+</ActorList>
+<PTraitList>
+<pTrait akind="Bad_Good" from="Camiggdo" to="Skordokott" value="-0.4"/>
+<pTrait akind="False_Honest" from="Camiggdo" to="Skordokott" value="0.0"/>
+<pTrait akind="Timid_Dominant" from="Camiggdo" to="Skordokott" value="0.6"/>
+<pTrait akind="Bad_Good" from="Camiggdo" to="Zubenelgenubi" value="0.8"/>
+<pTrait akind="False_Honest" from="Camiggdo" to="Zubenelgenubi" value="0.5"/>
+<pTrait akind="Timid_Dominant" from="Camiggdo" to="Zubenelgenubi" value="-0.7"/>
+<pTrait akind="Bad_Good" from="Camiggdo" to="Koopie" value="0.5"/>
+<pTrait akind="False_Honest" from="Camiggdo" to="Koopie" value="0.0"/>
+<pTrait akind="Timid_Dominant" from="Camiggdo" to="Koopie" value="-0.4"/>
+<pTrait akind="Bad_Good" from="Camiggdo" to="Subotai" value="-0.2"/>
+<pTrait akind="False_Honest" from="Camiggdo" to="Subotai" value="-0.4"/>
+<pTrait akind="Timid_Dominant" from="Camiggdo" to="Subotai" value="0.2"/>
+<pTrait akind="Bad_Good" from="Skordokott" to="Camiggdo" value="-0.6"/>
+<pTrait akind="False_Honest" from="Skordokott" to="Camiggdo" value="0.6"/>
+<pTrait akind="Timid_Dominant" from="Skordokott" to="Camiggdo" value="0.2"/>
+<pTrait akind="Bad_Good" from="Skordokott" to="Zubenelgenubi" value="0.8"/>
+<pTrait akind="False_Honest" from="Skordokott" to="Zubenelgenubi" value="-0.2"/>
+<pTrait akind="Timid_Dominant" from="Skordokott" to="Zubenelgenubi" value="-0.7"/>
+<pTrait akind="Bad_Good" from="Skordokott" to="Koopie" value="0.4"/>
+<pTrait akind="False_Honest" from="Skordokott" to="Koopie" value="0.2"/>
+<pTrait akind="Timid_Dominant" from="Skordokott" to="Koopie" value="0.3"/>
+<pTrait akind="Bad_Good" from="Skordokott" to="Subotai" value="0.0"/>
+<pTrait akind="False_Honest" from="Skordokott" to="Subotai" value="0.2"/>
+<pTrait akind="Timid_Dominant" from="Skordokott" to="Subotai" value="-0.1"/>
+<pTrait akind="Bad_Good" from="Zubenelgenubi" to="Camiggdo" value="-0.1"/>
+<pTrait akind="False_Honest" from="Zubenelgenubi" to="Camiggdo" value="0.6"/>
+<pTrait akind="Timid_Dominant" from="Zubenelgenubi" to="Camiggdo" value="0.3"/>
+<pTrait akind="Bad_Good" from="Zubenelgenubi" to="Skordokott" value="0.3"/>
+<pTrait akind="False_Honest" from="Zubenelgenubi" to="Skordokott" value="-0.1"/>
+<pTrait akind="Timid_Dominant" from="Zubenelgenubi" to="Skordokott" value="0.4"/>
+<pTrait akind="Bad_Good" from="Zubenelgenubi" to="Koopie" value="0.5"/>
+<pTrait akind="False_Honest" from="Zubenelgenubi" to="Koopie" value="0.3"/>
+<pTrait akind="Timid_Dominant" from="Zubenelgenubi" to="Koopie" value="0.4"/>
+<pTrait akind="Bad_Good" from="Zubenelgenubi" to="Subotai" value="0.1"/>
+<pTrait akind="False_Honest" from="Zubenelgenubi" to="Subotai" value="0.3"/>
+<pTrait akind="Timid_Dominant" from="Zubenelgenubi" to="Subotai" value="0.5"/>
+<pTrait akind="Bad_Good" from="Koopie" to="Camiggdo" value="0.1"/>
+<pTrait akind="False_Honest" from="Koopie" to="Camiggdo" value="0.0"/>
+<pTrait akind="Timid_Dominant" from="Koopie" to="Camiggdo" value="0.2"/>
+<pTrait akind="Bad_Good" from="Koopie" to="Skordokott" value="-0.5"/>
+<pTrait akind="False_Honest" from="Koopie" to="Skordokott" value="0.5"/>
+<pTrait akind="Timid_Dominant" from="Koopie" to="Skordokott" value="0.3"/>
+<pTrait akind="Bad_Good" from="Koopie" to="Zubenelgenubi" value="0.8"/>
+<pTrait akind="False_Honest" from="Koopie" to="Zubenelgenubi" value="-0.1"/>
+<pTrait akind="Timid_Dominant" from="Koopie" to="Zubenelgenubi" value="-0.7"/>
+<pTrait akind="Bad_Good" from="Koopie" to="Subotai" value="-0.4"/>
+<pTrait akind="False_Honest" from="Koopie" to="Subotai" value="-0.2"/>
+<pTrait akind="Timid_Dominant" from="Koopie" to="Subotai" value="0.3"/>
+<pTrait akind="Bad_Good" from="Subotai" to="Camiggdo" value="-0.3"/>
+<pTrait akind="False_Honest" from="Subotai" to="Camiggdo" value="-0.5"/>
+<pTrait akind="Timid_Dominant" from="Subotai" to="Camiggdo" value="-0.2"/>
+<pTrait akind="Bad_Good" from="Subotai" to="Skordokott" value="-0.2"/>
+<pTrait akind="False_Honest" from="Subotai" to="Skordokott" value="0.2"/>
+<pTrait akind="Timid_Dominant" from="Subotai" to="Skordokott" value="0.3"/>
+<pTrait akind="Bad_Good" from="Subotai" to="Zubenelgenubi" value="0.7"/>
+<pTrait akind="False_Honest" from="Subotai" to="Zubenelgenubi" value="-0.3"/>
+<pTrait akind="Timid_Dominant" from="Subotai" to="Zubenelgenubi" value="-0.5"/>
+<pTrait akind="Bad_Good" from="Subotai" to="Koopie" value="0.2"/>
+<pTrait akind="False_Honest" from="Subotai" to="Koopie" value="0.4"/>
+<pTrait akind="Timid_Dominant" from="Subotai" to="Koopie" value="0.0"/>
+</PTraitList>
+<EncounterList>
+<Encounter title="The Box Pusher">
+<Author>Chris Crawford</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>true</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>true</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>5</Maximum>
+</DayWindow>
+<IntroText>Some children dash past you; there are two Klasts, a Tayran, and a Jomkar, all madly giggling and chattering at each other in a crazy mix of their own languages and eeyal.  They don't seem to make much sense to each other, but Kiran children have never let that get in the way of their fun.  They play together and improvise.  They disappear around a corner, burbling with excitement about something.
+
+Your curiosity is piqued; you turn and follow them.  It takes some effort to figure out where they've gone, but soon you find them behind the cafeteria.  They're clustered around {AntagonistName}, who seems to be pushing a heavy box up a ramp for their benefit.  You stare in surprise for a moment. The nature of this entertainment is completely lost on you, but the children seem quite excited about {AntagonistName} pushing the box up to the top of the ramp for them.  
+
+{he/she}'s just beginning to show his age.  The powerful torso and rippling muscles are still there, but he does not use them with the swagger and abandon that he once did. {AntagonistName} is having trouble getting the box up the ramp.  He puffs and grunts and shoves; the heavy box slides up the ramp almost to the top.  Once there, though, he cannot get the leverage he needs to move it the last remaining distance.  The muscles ripple, the body quakes, and then {AntagonistName} backs off, panting.  He's not defeated yet; he's going to make another attempt.  
+	
+Here's your chance: You
+</IntroText>
+<Option>
+<OptionText>step back, conceal yourself, and watch how it comes out.</OptionText>
+<DeltaPBad_Good>-0.86</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.84</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} makes two increasingly desperate attempts. After the third attempt, he finally succeeds.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.76</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>-0.84</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>step forward and offer to help.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} grunts an acknowledgment. With great effort, the two of you get the box up.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>Bad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>{he/she} looks at you with disgust. "You couldn't help me with this!"</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>dash forward as soon as {AntagonistName} starts pushing and help him without a word.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>He shoves you away. "Mind your own business!"</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>call out, "You're not as young as you used to be, {AntagonistName}!"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"Stay out of this, {ProtagonistName}!" he snarls. Then he turns back to struggle pushing the box up the ramp.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>-Bad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Cafeteria Companion">
+<Author>Chris Crawford</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	You're starting to feel the pangs of hunger, so you decide to drop by the cafeteria for a meal.  It's not very crowded and you have little difficulty getting some food, although the stuff is, as usual, not very good.  You would think that after more than a century of working at it, they would have figured out how to cook food for different species properly, but somehow the cooks of one species never seem to be able to do a decent job with food for other species.  The compromise that was worked out many years ago was for at least one cook of each species to be on duty at all times. This should have solved the problem, but in practice the divisions of labor almost always required some cross-species cooking.  
+	You choose some buttered vegetables because that is a dish that almost everybody likes and so is probably prepared well (you hope).  You grab a roll, too; they look pretty good today.
+	With your food on your tray, you set out to look for a table.  There are actually plenty of choices, but you would like to find someplace quiet to be alone with your thoughts, the better to mull over the day's activities as you eat.  You head for a recessed corner of cafeteria, which normally guarantees solitude.
+	But as you turn the corner, you find {AntagonistName} sitting all by {him/her}self at a table facing you, having just sat down to eat {his/her} meal.  Apparently {he/she} had exactly the same notion you had.  Now you're in a sticky situation: {he/she}'s already made eye contact with you, so you can't just sneak away.
+
+	What are you going to do?  
+	</IntroText>
+<Option>
+<OptionText>Look down and walk back into the main cafeteria.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>You eat alone in the main room.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Ask if you may join {him/her}.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} scowls. "I'd rather be alone, if that's all right with you."</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Move to sit at a different table in the room.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>The two of you eat, separately, in strained silence.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Sit down at {his/her} table and initiate a pleasant conversation.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} shoots you a dirty look, stands up, and moves to another table.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pTimid_Dominant</FirstTrait>
+<SecondTrait>-pFalse_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Carimbi Beetle">
+<Author>Chris Crawford</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>7</Maximum>
+</DayWindow>
+<IntroText>
+	As you walk through the colony, your eye falls upon a Carimbi beetle making its way across the footpath.  These hardy little fellows somehow stowed away aboard one of the early shuttles from Lamina and made their home on Kira.  They were despised as pests by the early colonists, but this opinion shifted after the war.  They really didn't do much harm, spending most of their lives burrowing underground, gathering bits and pieces left over from the agricultural operations.  Someone once analyzed their net environmental impact and decided that they probably did more good than harm.  Ever since, Kirans have viewed them as compatriots, fellow survivors on this lonely, lifeless world.
+	This particular beetle is quite pretty; his green iridescent wings gleam brightly in the sun.  You bend over and poke at him.
+	"Hello there, beetle!"
+	He scurries about randomly, seeming only dimly aware of your existence. You would have preferred him to dash madly about in wild fear, even though you meant him no harm. You chase him into a hollow in the sand and block his exit with a small stick. He wanders about in the hollow, again seeming only vaguely aware of your actions. As he starts to climb over the lip, you place your foot down to discourage his escape. He climbs onto your foot and starts wandering around on top of it.  
+	"All right, you, this has gone far enough! It's time for you to go, get out of here, and—"  
+	You're interrupted by a rustling sound behind you.  It's {AntagonistName}, just emerging from {his/her} house.  {he/she} looks at you with an extremely suspicious eye. You straighten up, still holding the stick you were using to chase the beetle. You fumble for a moment, trying to think of what to say. {AntagonistName} clearly has not seen the beetle and has no idea what you're up to.
+	
+	What do you say to {him/her}?
+	</IntroText>
+<Option>
+<OptionText>"Oh, excuse me!" Then smile and get out of there fast.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} watches you go with a bemused smile.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>Bad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"There's this beetle here that I was talking to…"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} laughs and continues on {his/her} way.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"What are you doing sneaking up on me?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} stands up tall, stares at you coldly, and tells to continue on your way.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Timid_Dominant</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"When was the last time you saw a Carimbi beetle this pretty?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} laughs and bends low to look at the beetle.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Combat Exhaustion">
+<Author>Chris Crawford</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>7</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	You meet {AntagonistName} in passing on the street, and notice that {he/she} seems tired. It strikes you that you have never seen {him/her} relaxing or resting; {he/she} clearly hasn't been sleeping well. You know there isn't much point in bringing the matter up; {AntagonistName} is far too proud to admit to any kind of weakness.  
+	This is the side effect of all that mental combat, all those long nights wrapped in auras.  They saturate your mind, soaking you in extravagant dreams and horrible nightmares. After this is over, everyone is going to need a good rest.  
+	You wonder, if {AntagonistName} is showing the effects so readily, how you appear to be holding up. You must look even worse than {he/she} does. You are moved to share your thoughts with {AntagonistName}, but you hesitate.  
+	
+	Should you say:
+	</IntroText>
+<Option>
+<OptionText>Nothing, just let the matter pass.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>If {AntagonistName} notices, {he/she} doesn't bring it up, either.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"{AntagonistName}, you look very tired."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} straightens up. "Hardly. I'm fine."</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pTimid_Dominant</FirstTrait>
+<SecondTrait>-pTimid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"{AntagonistName}, do I look tired to you?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"Oh, no. Don't worry about it, you look fine."</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>Bad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"I think all this mental combat is really starting to get to you."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} scowls fiercely and mutters, "Tonight I'll give you something to get to you."</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pTimid_Dominant</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Doctor Visit (Jomkar)">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers>
+<Disqual>Doctor Visit (Klast)</Disqual>
+</Disqualifiers>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>true</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>3</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	For several days now, you've had an itching feeling in your right arm. You tried to ignore it at first, to put it out of your mind and hope it would go away on its own, but today it has erupted into an angry and painful red rash. At last you can put it off no longer; you're forced to head over to the medical structure.
+	The waiting room rarely sees many people; today you find it occupied by a Jomkar with drooping feathers and {AntagonistName}, trying to avoid your gaze. Even so, it feels surprisingly cramped inside, despite occupying one of the larger domes in the settlement; much of the central floor space is kept clean and sealed in case of necessary surgery.
+	While you wait to meet with Dr. Gan, what will you do?
+	</IntroText>
+<Option>
+<OptionText>Sit quietly. This is no time to pry.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} leers at you as Dr. Gan's assistant calls {AntagonistName}'s name, several minutes after the Jomkar's. Ten minutes after {he/she} leaves, the medical trainee leads you back to a different room.
+	The problem turns out to be a minor irritation. The doctor gives you a soothing extract and a request to see him again in a few days. "And let me know how the campaign is going!" he calls out as you leave.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Engage {AntagonistName} in small talk to pass the time.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} glares at you and turns away. You sit in awkward silence until the doctor's assistant calls {his/her} name. Ten minutes later, the medical trainee leads you back to a different room.
+	The problem turns out to be a minor irritation. The doctor gives you a soothing extract and a request to see him again in a few days. "And let me know how the campaign is going!" he calls out as you leave.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Sit next to {AntagonistName} and ask, "What are you here for?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"Why don't you mind your own business?" {he/she} says. You sit in awkward silence until the doctor's assistant calls {his/her} name. Ten minutes later, the medical trainee leads you back to a different room.
+	Your problem turns out to be a minor irritation. The doctor gives you a soothing extract and a request to see him again in a few days. "And let me know how the campaign is going!" he calls out as you leave.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pFalse_Honest</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Doctor Visit (Klast)">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers>
+<Disqual>Doctor Visit (Jomkar)</Disqual>
+</Disqualifiers>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>true</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>3</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	For several days now, you've had an itching feeling in your left arm. You tried to ignore it at first, to put it out of your mind and hope it would go away on its own, but today it has erupted into an angry, painful red rash. At last you can put it off no longer; you're forced to head over to the medical structure.
+	The waiting room rarely sees many people; today you find it occupied by a Klast with an anemic, pale ridge and {AntagonistName}, trying to avoid your gaze. Even so, it feels surprisingly cramped inside, despite occupying one of the larger domes in the settlement; much of the central floor space is kept clean and sealed in case of necessary surgery.
+	While you wait to meet with Dr. Gan, what will you do?
+	</IntroText>
+<Option>
+<OptionText>Sit quietly. This is no time to pry.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} leers at you as Dr. Gan's assistant calls {his/her}'s name, several minutes after the Klast's. Ten minutes after {he/she} leaves, the medical trainee leads you back to a different room.
+	The problem turns out to be a minor irritation. The doctor gives you a soothing extract and a request to see him again in a few days. "And let me know how the campaign is going!" he calls out as you leave.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Engage {AntagonistName} in small talk to pass the time.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} glares at you and turns away. You sit in awkward silence until the doctor's assistant calls {his/her} name. Ten minutes later, the medical trainee leads you back to a different room.
+	The problem turns out to be a minor irritation. The doctor gives you a soothing extract and a request to see him again in a few days. "And let me know how the campaign is going!" he calls out as you leave.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Sit next to {AntagonistName} and ask, "What are you here for?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"Why don't you mind your own business?" {he/she} says. You sit in awkward silence until the doctor's assistant calls {his/her} name. Ten minutes later, the medical trainee leads you back to a different room.
+	Your problem turns out to be a minor irritation. The doctor gives you a soothing extract and a request to see him again in a few days. "And let me know how the campaign is going!" he calls out as you leave.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pFalse_Honest</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Doorway Crunch">
+<Author>Chris Crawford</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	Since you're in the neighborhood, you decide to stop by Nafimko's house to pay your respects to his widow. The tradition of looking after widows and widowers dates back to the earliest days of the colony. Kira is a tightly-knit community; doing this is a gesture of respect and a way of showing your concern for her welfare. 
+	You step onto the porch and open the outer door; to your surprise, {AntagonistName} opens the inner door at exactly the same moment.  The two of you stare at each other for a second; one must give way to the other. 
+	
+	What do you do?
+	</IntroText>
+<Option>
+<OptionText>Wait for {him/her} to make the first move.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} pushes past you without saying a word.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Demand that {he/she} step aside.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} tells you to go to hell and pushes you aside.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pTimid_Dominant</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Step aside, hold the door open, and say "After you, {AntagonistName}!"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} sneers and barges past you.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Barge past {AntagonistName}, pushing {him/her} aside.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} shoves you right back. Not wanting to make a scene on Nafimko's porch, you let {him/her} pass.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Klimdost">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>true</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>true</Camiggdo>
+<Skordokott>true</Skordokott>
+<Zubenelgenubi>true</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>3</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	As you're out on an errand, you see Klimdost running towards you. He's a young Ripi male who's always flitting around the acolytes every free moment he can escape from his duties. He seems fascinated by the succession process in particular.
+	"Hello, {ProtagonistName}!" he gasps, out of breath, as soon as he reaches you. He takes a moment to compose himself. "I was just talking to Koopie earlier today. Oh man, does he have it out for you. What did you ever do to make him so mad?"
+	Klimdost also has a reputation for trying to stir up drama. You may need to offer him some juicy morsel to avoid having that spotlight turned on you.
+
+	You decide: 
+	</IntroText>
+<Option>
+<OptionText>To stop him early. "I'm not going to play your game, Klimdost."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"Game?" he says, and frowns. Then he shakes his head and stomps off back the way he came. You can only imagine what wild story he's coming up with now.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>To spin an elaborate yarn about how you were always just a little bit stronger, or faster, or better at something than Koopie was while you were growing up, and he just never seemed to like you.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>Klimdost listens in rapt attention, jumping in to ask about what it was like to be crechemates with him and your early life in general, which you're happy to share—though you're careful not to show that! It's nearly half an hour before he's lost interest and wandered off.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>To say, "It's because of this dream combat. None of us can get a good night's sleep, and we're all on edge these days. I don't blame him."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>Klimdost watches you expectantly for a while longer. When he realizes that's all he's going to get out of you, he says "Oh, yeah? Huh." and walks off.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Kormisos Commiseration">
+<Author>Chris Crawford</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>true</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>true</Skordokott>
+<Zubenelgenubi>true</Zubenelgenubi>
+<Koopie>true</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>8</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	While out for a walk, you spy Camiggdo's fiancée at work in his shop.  You've always had a liking for Kormisos, so you drop by for a chat.  He's one of the master mechanical repair technicians, tasked with keeping the equipment running smoothly.  It's a tough job—everything on Kira is more than 130 years old, and has been in continuous use the whole time. 
+	"Good day to you, Kormisos!  How are you today?" you ask cheerfully.
+	He looks up, looking tired and frustrated.  "Oh, OK, I guess," he says.
+	"What's wrong?"
+	"It's the tractor." He gestures at the machine standing at the end of the shop. "It is awfully useful, but it's broken down again, and I just don't see the point of repairing it. Almost every moving part has been replaced with parts stripped from even older machines, and they're all worn out now. The lubricant is lousy stuff recycled from the cafeteria, and it's so poor that we have to limit engine use to ten minutes per run. Every single screw, nut, and bolt has been worn smooth. And the whole thing clatters something terrible, which just adds to the wear.
+	"I've told that field crew chief that he's gotta treat this thing gently, but damn if he didn't gun the engine trying to pull a pipe. Now it's busted again. I tell you, sometimes I think we're running out of time. We've pulled a lot of tricks to keep this show going, but we've gotta face it: we're not a self-sustaining operation. We rely on the machines that we brought with us 130 years ago, and those machines are wearing out. When they go, we go.
+	"Those jerks back on Lamina had better get a shuttle up here with some equipment, or their precious Shepherd is going to starve to death. That would be downright embarrassing, wouldn't it?" He pauses, staring at the parts on his workbench. "Look, I'm sorry to dump this on you. Don't get upset; we still got years, maybe decades left. Besides, I got something even worse to tell you. I was talking to Camiggdo last night. I don't know what got her so riled up, but she is none too pleased with you, friend. Still, I wouldn't pay too much heed to it; you know how excitable Camiggdo can be."
+	
+	What do you say to Kormisos?
+	</IntroText>
+<Option>
+<OptionText>Nothing; just thank him and leave.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>He waves goodbye with a wrench in his hand.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"Would you tell Camiggdo that I'm pretty mad at her, too?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>Kormisos promises to give her the message.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"Yeah, well, I don't have any ill feelings towards her."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>Kormisos promises to give her the message.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"Yeah, Camiggdo is a pretty jumpy lady."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>Kormisos smiles and waves goodbye.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Timid_Dominant</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Lost Til">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>true</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	As you're walking in the rougher terrain on the outskirts of the colony, you are surprised to find a til halfway up a cliff face, silent and motionless, watching you. It's not your job to keep track of these animals, but you actually recognize the markings on this one: it looks like {AntagonistName}'s. You're far from {his/her} home, and with no native animals to speak of on Kira, chances for it to feed out in the wild are slight. {AntagonistName} might be glad to see you return it to {him/her}. But you'd have to climb to reach it, and tils are prickly things that usually don't appreciate being cornered and caught. And you would look pretty silly to go through all that trouble if it would just return home on its own.
+	
+	What will you do?
+	</IntroText>
+<Option>
+<OptionText>I'll do my best to catch it and bring it to {AntagonistName}'s home.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>At the cost of a few scratches, you manage to wrangle it and bring it to {AntagonistName}'s home. "Ah, thanks," {he/she} says, with {his/her} eyes down. "You didn't have to do that, though, I was about to go looking for {him/her}…" You quickly drop off the animal and say your goodbyes.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Timid_Dominant</FirstTrait>
+<SecondTrait>-Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>I ignore it. It can fend for itself, and if {AntagonistName} lost it, that's {his/her} own fault.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>You move on.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>-Bad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>I'll go to {AntagonistName}'s house and ask if {he/she}'s lost {his/her} til. Who knows, it might not even be {his/hers}.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"Thanks for nothing," {he/she} says and storms off.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="A Nice Day">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers>
+<Disqual>A Storm's Coming</Disqual>
+</Disqualifiers>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>3</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	What a nice day, you think as you look out your front window. Ever since the start of the contest, in fact, there's been a string of exceptionally good weather. For Kira, that's saying something.
+	You catch sight of {AntagonistName} crossing the yard in front of your house. Looks like {he/she} hasn't seen you yet.
+	
+	You:
+	</IntroText>
+<Option>
+<OptionText>Wave.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} acts like {he/she} doesn't see you.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pFalse_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Call out in greeting.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} ignores you and continues walking.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Quietly move back inside.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>You hope {AntagonistName} didn't notice you in the window.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>Bad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="A Question of Ethics">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	Just as you're sitting down for a brief moment at home, {AntagonistName} knocks on the door. You invite {him/her} in for a drink, but {he/she} shakes {his/her} head.
+	"I just have a quick question," {he/she} says. "Say there was another colonist, and say they were coming down with signs of some condition. Say you knew a treatment for it, or a… preventative… salve of some sort."
+	"Is this hypothetical colonist another acolyte?"
+	"An… uh, I'd rather not say. My point is, by saying nothing to them, they haven't lost anything, you haven't somehow given yourself an unfair advantage. But would that go against the… spirit of Siboot?"
+	Tricky. Flanell has been watching over the campaign to ensure everyone's actions stayed within the bounds of decorum. If this is true and involves another acolyte, it could tar {AntagonistName}'s reputation, even end their participation in the campaign. But what if it's a ruse, an attempt to catch you out? How much do you pFalse_Honest {him/her}? Or, on the other hand, what if they're being completely genuine—this truly is an issue they're wrestling with—but it's something unrelated to the campaign?
+
+	What will you do?
+	</IntroText>
+<Option>
+<OptionText>Refuse to give an answer. {he/she} has to decide this on {his/her} own.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} lowers {he/she} head and leaves silently.
+			</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>pTimid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Suggest {he/she} go through with this scheme. What does {he/she} have to lose?</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} nods and walks away, lost in thought.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>pTimid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Ask {AntagonistName} to tell the person {he/she}'s talking about.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} nods. "Yes, you're right," {he/she} says, "Thanks." {he/she} heads back the way {he/she} came.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Timid_Dominant</FirstTrait>
+<SecondTrait>-pTimid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Warn {him/her} that if {he/she} doesn't tell Flanell, you will.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"I'm not talking about an acolyte!" {AntagonistName} storms off.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="A Storm's Coming">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	You can tell from the taste in the air that a storm is coming. Dust storms on Kira are some of the most dangerous conditions of daily life in the colony. The farmers have learned the hard way that their crops will need protection from the harsh, stinging winds. Today their harvests come mostly from berm-topping root vegetables and short, stumpy bushes within low wall enclosures; none of the giant fields of tall grains from the old Laminan History books.
+	It's hard work to hammer in the plates and boards to prepare for the coming storm; you head to the cafe for a drink. 
+	On the way back, you pass {AntagonistName}'s house. You notice that {he/she}'s neglected to cover {his/her} cellar window. There's no sign of {him/her} around, as far as you can see from here. If the winds hit that side head-on, it might give way. It may not be as dangerous as an exposed ground-floor window, but at best it would still mean a big mess to clean up afterwards.
+
+	You decide to: 
+	</IntroText>
+<Option>
+<OptionText>Walk by without doing anything.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>Perhaps that's best. {he/she} might not be home now, anyway.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Stop in for a moment and inform {AntagonistName} of {his/her} oversight.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{he/she} gasps. "Oh, how could I forget that!" Then {he/she} runs off to get {his/her} tools and correct the oversight.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Timid_Dominant</FirstTrait>
+<SecondTrait>-Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Just cover it myself. I still have scraps and tools left at home.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>You return to find {AntagonistName} outside. When you point out the cellar window and offer the supplies to fix it, {he/she} shrugs and accepts them.</ReactionText>
+<DesirableFormula>
+<FirstTrait>neutral</FirstTrait>
+<SecondTrait>neutral</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Uncovered">
+<Author>Chris Conley</Author>
+<Prerequisites>
+<Prereq>A Storm's Coming</Prereq>
+</Prerequisites>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	That storm turned out to be one of the worst anyone can remember. A number of Kirans went missing in the aftermath, although by now all but one of them has been accounted for.
+	Just before you cross a field, you trip over something buried in the deposited silt. You turn back and try to see what nearly caused you to twist your ankle, but surprisingly you find you can't lift it with your foot. You're forced to get down and try to dig it out by hand.
+	After ten minutes work, you have uncovered a bizarre sight: a large cylinder, squat and wide, with a its smooth circular surface facing up to the sky, buried deep in the field. It must have been exposed by the winds of that terrible storm.
+	
+	What will you do?
+	</IntroText>
+<Option>
+<OptionText>Take it.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>With the combination of the dust coating the thing and its smooth surface, you can't find any purchase, and the base of it is still buried in the earth. You're tired; you decide to leave it for now. Maybe someone in the colony will have a better idea.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Cover it back up and leave it for now.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>You push the fine soil back over the object once more. Perhaps you'll return one day when you're more equipped to deal with whatever it is.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>Bad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Vlaamt">
+<Author>Chris Conley</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>1</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+	Vlaamt, the water supervisor, has asked for your assistance at one of the irrigation sites. It seems that the team there has been having some communication problems, and you happened to be nearby; this colony never seems to have a translator around when they're needed.
+	So you're surprised when you arrive at the channel and find {AntagonistName} already there, talking to the workers.
+	
+	You say:
+	</IntroText>
+<Option>
+<OptionText>Nothing, just walk away. Clearly, I'm not needed here.</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} doesn't seem to notice.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Timid_Dominant</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"Oh, Vlaamt didn't mention you'd be here. Is there any way I can help?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"I got this, thanks." {AntagonistName} turns back to the workers.	You return home.
+			</ReactionText>
+<DesirableFormula>
+<FirstTrait>Timid_Dominant</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"Step aside, {AntagonistName}. I can handle this."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>
+	{he/she} chuckles. "Knock yourself out, {ProtagonistName}." You step up and begin translating.
+	It turns out the problem was a simple misunderstanding; you have everybody back working within a few minutes.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+<Encounter title="Warehouse Conspiracy">
+<Author>Chris Crawford</Author>
+<Prerequisites/>
+<Disqualifiers/>
+<ExcludeProtagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeProtagonist>
+<ExcludeAntagonist>
+<Camiggdo>false</Camiggdo>
+<Skordokott>false</Skordokott>
+<Zubenelgenubi>false</Zubenelgenubi>
+<Koopie>false</Koopie>
+<Subotai>false</Subotai>
+</ExcludeAntagonist>
+<DayWindow>
+<Minimum>3</Minimum>
+<Maximum>20</Maximum>
+</DayWindow>
+<IntroText>
+As you pass by the perishables warehouse, you hear an odd noise coming from within. Now alert, you can sense eeyal-talk going on inside, and you can immediately tell from the sophistication of the conversation that the speakers must be acolytes.  
+You quietly enter the warehouse and creep about. You catch sight of the acolytes down a narrow corridor. It is {AntagonistName} and another person whom you can't see, engaged in an animated conversation. You're too far away to see their faces or gestures, so the eeyal you're picking up doesn't make much sense. But when you hear your name mentioned, you decide that you must find out what they're saying, so you start to creep closer.
+You climb on top of some crates and try to crawl over the top, but one crate is unstable and shifts underneath you. You, the crate, and some assorted vegetables land together in a heap. You jump up just as {AntagonistName} arrives. The other person has run away; you still don't know who it was. {AntagonistName} demands to know what you were doing sneaking around spying on {him/her}.
+You reply: 
+</IntroText>
+<Option>
+<OptionText>"Er, sorry, I was just investigating a noise.  I'll be going now."</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} shakes {his/her} head skeptically, but lets you go.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pBad_Good</FirstTrait>
+<SecondTrait>pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"I know you were talking about me. What were you plotting?"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} grows furious. {he/she} shouts at you and stalks off!</ReactionText>
+<DesirableFormula>
+<FirstTrait>-Bad_Good</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>0.32</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>{AntagonistName} laughs in your face. "You fool, we weren't plotting anything!"</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pTimid_Dominant</FirstTrait>
+<SecondTrait>Timid_Dominant</SecondTrait>
+<Bias>-0.42</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>"Oh, dear," {he/she} says, "we weren't plotting anything!"</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>-pTimid_Dominant</SecondTrait>
+<Bias>0.49</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"I'm sorry. I couldn't help but overhear my name, and I was curious…"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>"Sure," {AntagonistName} says, sounding unconvinced. Then {he/she} turns and walks away.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pFalse_Honest</FirstTrait>
+<SecondTrait>-pFalse_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>"Get out of here," {AntagonistName} yells.</ReactionText>
+<DesirableFormula>
+<FirstTrait>-pBad_Good</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>"How dare you use that tone of voice with me!"</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>{AntagonistName} looks chastised and retreats in silence.</ReactionText>
+<DesirableFormula>
+<FirstTrait>pTimid_Dominant</FirstTrait>
+<SecondTrait>-Timid_Dominant</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>{AntagonistName} shouts at you and stalks off.</ReactionText>
+<DesirableFormula>
+<FirstTrait>Timid_Dominant</FirstTrait>
+<SecondTrait>-pBad_Good</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+<Option>
+<OptionText>Unused option</OptionText>
+<DeltaPBad_Good>0.0</DeltaPBad_Good>
+<DeltaPFalse_Honest>0.0</DeltaPFalse_Honest>
+<DeltaPTimid_Dominant>0.0</DeltaPTimid_Dominant>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+<Reaction>
+<ReactionText>unused Reaction</ReactionText>
+<DesirableFormula>
+<FirstTrait>Bad_Good</FirstTrait>
+<SecondTrait>False_Honest</SecondTrait>
+<Bias>0.0</Bias>
+</DesirableFormula>
+</Reaction>
+</Option>
+</Encounter>
+</EncounterList>
+</ListWrapper>
